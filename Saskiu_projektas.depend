@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1733757614 source:c:\users\justa\desktop\saskiu_projektas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"GameState.h"
+
+1733757684 c:\users\justa\desktop\saskiu_projektas\gamestate.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1733758800 source:c:\users\justa\desktop\saskiu_projektas\gamestate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"GameState.h"
+
+1734279771 source:c:\users\justa\desktop\vu\1 kursas, 1 semestras (2024 - 2025 rudens)\programavimo ir it pagrindai\projektinë uþduotis\saskiu_projektas\gamestate.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"GameState.h"
+
+1734356652 c:\users\justa\desktop\vu\1 kursas, 1 semestras (2024 - 2025 rudens)\programavimo ir it pagrindai\projektinë uþduotis\saskiu_projektas\gamestate.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1734275962 source:c:\users\justa\desktop\vu\1 kursas, 1 semestras (2024 - 2025 rudens)\programavimo ir it pagrindai\projektinë uþduotis\saskiu_projektas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"GameState.h"
+
